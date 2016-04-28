@@ -20,8 +20,8 @@ public class NotesController {
     @RequestMapping("all")
     public String getAll(User user){
         List<Note> notes = noteService.getAll(user);
+//        JsonUtils.parseObject(notes);
 
-        
         return null;
     }
 }
