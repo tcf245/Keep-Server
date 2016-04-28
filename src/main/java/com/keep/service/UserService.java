@@ -17,6 +17,7 @@ public class UserService {
         user = userDao.find(user);
         return user == null ? null : user;
     }
+
     public void update(User user){
         userDao.update(user);
     }

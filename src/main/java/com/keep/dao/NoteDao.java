@@ -25,6 +25,7 @@ public class NoteDao {
     public void update(Note note){
         template.update(note);
     }
+
     public List<Note> findAll(User user){
         List<Note> notes =  (List<Note>) template.find("from Note where owner=? order by update_time DESC",user);
         return notes.isEmpty() ? null : notes;
