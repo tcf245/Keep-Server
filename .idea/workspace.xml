@@ -2,10 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0ede50b-933e-47ba-aa6a-317fc7dce5d7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_alibaba_fastjson_1_2_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__ognl_ognl_3_0_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_security_spring_security_config_4_0_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_security_spring_security_core_4_0_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_security_spring_security_test_4_0_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_security_spring_security_web_4_0_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_thymeleaf_extras_thymeleaf_extras_springsecurity4_2_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_thymeleaf_thymeleaf_2_1_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_thymeleaf_thymeleaf_spring4_2_1_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_unbescape_unbescape_1_1_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/keep/web/NotesController.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___Keep_1_0_SNAPSHOT_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___Keep_1_0_SNAPSHOT_war.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___Keep_1_0_SNAPSHOT_war__exploded_.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___Keep_1_0_SNAPSHOT_war__exploded_.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_1_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_6_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_6_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_6_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_6_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_6_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_6_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_fileupload_commons_fileupload_1_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_fileupload_commons_fileupload_1_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_el_javax_el_api_3_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_el_javax_el_api_3_0_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_jstl_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_jstl_1_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_1_1_0_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_8_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_8_7.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_java8_5_0_1_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_java8_5_0_1_Final.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_2_1_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_2_1_Final.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_4_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_4_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aspects_4_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aspects_4_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_4_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_4_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_4_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_4_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_4_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_4_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_4_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_4_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jdbc_4_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jdbc_4_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_orm_4_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_orm_4_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_test_4_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_test_4_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_tx_4_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_tx_4_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_4_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_4_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_2_2_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_2_2_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/Keep_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/Keep_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/Keep_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/Keep_test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/keep/config/Type.java" afterPath="$PROJECT_DIR$/src/main/java/com/keep/config/Type.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/keep/web/NotesController.java" afterPath="$PROJECT_DIR$/src/main/java/com/keep/web/NotesController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/keep/config/DaoConfiguration.java" afterPath="$PROJECT_DIR$/src/main/java/com/keep/config/DaoConfiguration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/keep/domain/Note.java" afterPath="$PROJECT_DIR$/src/main/java/com/keep/domain/Note.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/keep/domain/Tag.java" afterPath="$PROJECT_DIR$/src/main/java/com/keep/domain/Tag.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/keep/domain/User.java" afterPath="$PROJECT_DIR$/src/main/java/com/keep/domain/User.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/keep/web/UserController.java" afterPath="$PROJECT_DIR$/src/main/java/com/keep/web/UserController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/datasource.properties" afterPath="$PROJECT_DIR$/src/main/resources/datasource.properties" />
     </list>
@@ -56,56 +101,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DaoConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/config/DaoConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+              <folding>
+                <element signature="e#1076#1077#0" expanded="true" />
+                <element signature="e#1129#1130#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/web/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="39" column="20" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="20" />
+            <state relative-caret-position="263">
+              <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NoteService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/service/NoteService.java">
+      <file leaf-file-name="Tag.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/domain/Tag.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NoteDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/dao/NoteDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
               <folding>
-                <element signature="method#findAll#0;class#NoteDao#0" expanded="false" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/service/UserService.java">
+      <file leaf-file-name="Note.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/domain/Note.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="220">
+              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
               <folding>
-                <element signature="method#login#0;class#UserService#0" expanded="false" />
+                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#609#610#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="datasource.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/datasource.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -247,7 +296,7 @@
                 <option name="name" value="farmRunDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="description" value="Processes main resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
@@ -292,7 +341,7 @@
                 <option name="name" value="farmStart" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="description" value="Compiles main Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
@@ -307,7 +356,7 @@
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="description" value="Processes test resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processTestResources" />
               </ExternalTaskPojo>
@@ -357,9 +406,14 @@
                 <option name="name" value="prepareInplaceWebApp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'main'." />
+                <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'Keep'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Starts web-app on WAR-file (stopped by 'jettyStop')." />
@@ -377,7 +431,7 @@
                 <option name="name" value="appRun" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'test'." />
+                <option name="description" value="Assembles test classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="testClasses" />
               </ExternalTaskPojo>
@@ -487,7 +541,7 @@
                 <option name="name" value="clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="description" value="Compiles test Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
@@ -573,7 +627,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="2921845479170" />
+        <entry key="$PROJECT_DIR$" value="2922561995145" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -595,119 +649,66 @@
               <option name="name" value="Keep" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="D:/Tools/gradle-2.6/src/announce" />
-                  <option value="D:/Tools/gradle-2.6/src/antlr" />
-                  <option value="D:/Tools/gradle-2.6/src/base-services" />
-                  <option value="D:/Tools/gradle-2.6/src/base-services-groovy" />
-                  <option value="D:/Tools/gradle-2.6/src/build-comparison" />
-                  <option value="D:/Tools/gradle-2.6/src/build-init" />
-                  <option value="D:/Tools/gradle-2.6/src/cli" />
-                  <option value="D:/Tools/gradle-2.6/src/code-quality" />
-                  <option value="D:/Tools/gradle-2.6/src/core" />
-                  <option value="D:/Tools/gradle-2.6/src/dependency-management" />
-                  <option value="D:/Tools/gradle-2.6/src/diagnostics" />
-                  <option value="D:/Tools/gradle-2.6/src/ear" />
-                  <option value="D:/Tools/gradle-2.6/src/ide" />
-                  <option value="D:/Tools/gradle-2.6/src/ide-native" />
-                  <option value="D:/Tools/gradle-2.6/src/internal-integ-testing" />
-                  <option value="D:/Tools/gradle-2.6/src/internal-testing" />
-                  <option value="D:/Tools/gradle-2.6/src/ivy" />
-                  <option value="D:/Tools/gradle-2.6/src/jacoco" />
-                  <option value="D:/Tools/gradle-2.6/src/javascript" />
-                  <option value="D:/Tools/gradle-2.6/src/jetty" />
-                  <option value="D:/Tools/gradle-2.6/src/language-groovy" />
-                  <option value="D:/Tools/gradle-2.6/src/language-java" />
-                  <option value="D:/Tools/gradle-2.6/src/language-jvm" />
-                  <option value="D:/Tools/gradle-2.6/src/language-native" />
-                  <option value="D:/Tools/gradle-2.6/src/language-scala" />
-                  <option value="D:/Tools/gradle-2.6/src/launcher" />
-                  <option value="D:/Tools/gradle-2.6/src/maven" />
-                  <option value="D:/Tools/gradle-2.6/src/messaging" />
-                  <option value="D:/Tools/gradle-2.6/src/model-core" />
-                  <option value="D:/Tools/gradle-2.6/src/model-groovy" />
-                  <option value="D:/Tools/gradle-2.6/src/native" />
-                  <option value="D:/Tools/gradle-2.6/src/open-api" />
-                  <option value="D:/Tools/gradle-2.6/src/osgi" />
-                  <option value="D:/Tools/gradle-2.6/src/platform-base" />
-                  <option value="D:/Tools/gradle-2.6/src/platform-jvm" />
-                  <option value="D:/Tools/gradle-2.6/src/platform-native" />
-                  <option value="D:/Tools/gradle-2.6/src/platform-play" />
-                  <option value="D:/Tools/gradle-2.6/src/plugin-development" />
-                  <option value="D:/Tools/gradle-2.6/src/plugin-use" />
-                  <option value="D:/Tools/gradle-2.6/src/plugins" />
-                  <option value="D:/Tools/gradle-2.6/src/publish" />
-                  <option value="D:/Tools/gradle-2.6/src/reporting" />
-                  <option value="D:/Tools/gradle-2.6/src/resources" />
-                  <option value="D:/Tools/gradle-2.6/src/resources-http" />
-                  <option value="D:/Tools/gradle-2.6/src/resources-s3" />
-                  <option value="D:/Tools/gradle-2.6/src/resources-sftp" />
-                  <option value="D:/Tools/gradle-2.6/src/scala" />
-                  <option value="D:/Tools/gradle-2.6/src/signing" />
-                  <option value="D:/Tools/gradle-2.6/src/sonar" />
-                  <option value="D:/Tools/gradle-2.6/src/test-kit" />
-                  <option value="D:/Tools/gradle-2.6/src/testing-native" />
-                  <option value="D:/Tools/gradle-2.6/src/tooling-api" />
-                  <option value="D:/Tools/gradle-2.6/src/tooling-api-builders" />
-                  <option value="D:/Tools/gradle-2.6/src/ui" />
-                  <option value="D:/Tools/gradle-2.6/src/wrapper" />
-                  <option value="D:/Tools/gradle-2.6/lib/ant-1.9.3.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/ant-launcher-1.9.3.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/gradle-base-services-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/gradle-base-services-groovy-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/gradle-cli-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/gradle-core-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/gradle-docs-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/gradle-launcher-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/gradle-messaging-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/gradle-model-core-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/gradle-model-groovy-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/gradle-native-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/gradle-open-api-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/gradle-resources-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/gradle-tooling-api-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/gradle-ui-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/gradle-wrapper-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/groovy-all-2.3.10.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-announce-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-antlr-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-build-comparison-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-build-init-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-code-quality-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-dependency-management-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-diagnostics-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-ear-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-ide-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-ide-native-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-ivy-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-jacoco-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-javascript-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-jetty-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-language-groovy-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-language-java-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-language-jvm-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-language-native-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-language-scala-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-maven-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-osgi-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-platform-base-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-platform-jvm-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-platform-native-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-platform-play-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-plugin-development-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-plugin-use-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-plugins-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-publish-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-reporting-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-resources-http-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-resources-s3-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-resources-sftp-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-scala-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-signing-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-sonar-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-test-kit-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-testing-native-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/gradle-tooling-api-builders-2.6.jar" />
-                  <option value="D:/Tools/gradle-2.6/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/ant-1.9.3.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/ant-launcher-1.9.3.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/gradle-base-services-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/gradle-base-services-groovy-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/gradle-cli-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/gradle-core-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/gradle-docs-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/gradle-launcher-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/gradle-messaging-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/gradle-model-core-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/gradle-model-groovy-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/gradle-native-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/gradle-open-api-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/gradle-resources-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/gradle-tooling-api-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/gradle-ui-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/gradle-wrapper-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/groovy-all-2.4.4.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-announce-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-antlr-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-build-comparison-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-build-init-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-code-quality-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-dependency-management-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-diagnostics-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-ear-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-ide-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-ide-native-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-ivy-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-jacoco-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-javascript-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-jetty-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-language-groovy-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-language-java-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-language-jvm-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-language-native-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-language-scala-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-maven-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-osgi-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-platform-base-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-platform-jvm-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-platform-native-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-platform-play-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-plugin-development-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-plugin-use-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-plugins-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-publish-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-reporting-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-resources-http-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-resources-s3-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-resources-sftp-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-scala-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-signing-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-sonar-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-test-kit-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-testing-base-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-testing-jvm-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-testing-native-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/gradle-tooling-api-builders-2.12.jar" />
+                  <option value="E:/Program Files/gradle-2.12/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -725,13 +726,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/keep/config/WebSecurityConfiguration.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/keep/domain/Note.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/keep/domain/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/keep/domain/Tag.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/keep/dao/TagDao.kt" />
         <option value="$PROJECT_DIR$/src/main/java/com/keep/dao/TagDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/keep/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/keep/config/DaoConfiguration.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/keep/config/ServiceConfiguration.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/keep/ApplicationInitializer.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/template/index.html" />
@@ -739,12 +736,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/keep/config/WebConfiguration.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/keep/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/keep/service/NoteController.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/keep/dao/NoteDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/keep/service/NoteService.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/datasource.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/keep/config/Type.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/keep/web/NotesController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/datasource.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/keep/config/DaoConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/keep/domain/Note.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/keep/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/keep/domain/Tag.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/keep/web/UserController.java" />
       </list>
     </option>
@@ -792,9 +793,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -803,14 +801,123 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep-Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep-Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep-Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep-Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="keep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Keep-Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="keep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
@@ -1311,36 +1418,38 @@
       <workItem from="1461398534462" duration="6047000" />
       <workItem from="1461465577475" duration="8158000" />
       <workItem from="1461808641831" duration="4394000" />
-      <workItem from="1461818580528" duration="2260000" />
+      <workItem from="1461818580528" duration="2263000" />
+      <workItem from="1461894137697" duration="2717000" />
+      <workItem from="1462068746055" duration="8594000" />
+      <workItem from="1462172087181" duration="5968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36154000" />
+    <option name="totallyTimeSpent" value="53436000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289256" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28264463" sideWeight="0.5121212" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6694215" sideWeight="0.5151976" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28264463" sideWeight="0.4878788" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24793388" sideWeight="0.48480242" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22954546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22878788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27575758" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.275076" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1350,6 +1459,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289256" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1374,26 +1484,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/datasource.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/config/Type.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/config/DaoConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1401,10 +1495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1400">
           <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
-          <folding>
-            <element signature="e#794#795#0" expanded="false" />
-            <element signature="e#829#830#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1412,10 +1502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#363#364#0" expanded="false" />
-            <element signature="e#410#411#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1453,9 +1539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="method#login#0;class#UserService#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1471,7 +1554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1479,10 +1561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1400">
           <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
-          <folding>
-            <element signature="e#794#795#0" expanded="false" />
-            <element signature="e#829#830#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1490,10 +1568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#363#364#0" expanded="false" />
-            <element signature="e#410#411#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1524,9 +1598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="method#login#0;class#UserService#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1542,7 +1613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1550,10 +1620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1400">
           <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
-          <folding>
-            <element signature="e#794#795#0" expanded="false" />
-            <element signature="e#829#830#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1561,10 +1627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#363#364#0" expanded="false" />
-            <element signature="e#410#411#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1595,9 +1657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="method#login#0;class#UserService#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1610,31 +1669,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/domain/Tag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/dao/TagDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/domain/Note.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -1653,30 +1691,11 @@
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.36/f8365eeb000436dc8edc96352a9a13d8696b4864/mysql-connector-java-5.1.36-sources.jar!/com/mysql/jdbc/AbandonedConnectionCleanupThread.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/ApplicationInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/config/DaoConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/config/WebSecurityConfiguration.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/config/WebConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-          <folding>
-            <element signature="e#794#795#0" expanded="false" />
-            <element signature="e#829#830#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1684,26 +1703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#363#364#0" expanded="false" />
-            <element signature="e#410#411#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/service/NoteService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1711,16 +1710,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/web/NotesController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/web/NotesController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/service/NoteService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state relative-caret-position="180">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/dao/NoteDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
+            <element signature="e#400#401#0" expanded="false" />
+            <element signature="e#440#441#0" expanded="false" />
+            <element signature="e#474#475#0" expanded="false" />
+            <element signature="e#509#510#0" expanded="false" />
+            <element signature="e#545#546#0" expanded="false" />
+            <element signature="e#582#583#0" expanded="false" />
+            <element signature="method#findAll#0;class#NoteDao#0" expanded="false" />
+            <element signature="e#829#830#0" expanded="false" />
+            <element signature="e#866#867#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1729,9 +1744,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/ApplicationInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
           <folding>
-            <element signature="method#login#0;class#UserService#0" expanded="false" />
+            <element signature="e#752#753#0" expanded="false" />
+            <element signature="e#813#814#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.2.2.RELEASE/69c9387523c1b0589ae4a49aebf14e02ec4886a1/spring-context-4.2.2.RELEASE-sources.jar!/org/springframework/context/ApplicationContextInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.2.2.RELEASE/69c9387523c1b0589ae4a49aebf14e02ec4886a1/spring-context-4.2.2.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="843" column="12" selection-start-line="843" selection-start-column="12" selection-end-line="843" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1743,20 +1780,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/dao/NoteDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/config/DaoConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
           <folding>
-            <element signature="method#findAll#0;class#NoteDao#0" expanded="false" />
+            <element signature="e#1076#1077#0" expanded="true" />
+            <element signature="e#1129#1130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding>
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#1263#1264#0" expanded="true" />
+            <element signature="e#1305#1306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/domain/Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/domain/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding>
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/keep/web/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="39" column="20" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="20" />
+        <state relative-caret-position="263">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -1767,7 +1847,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>Gradle : Keep-1.0.RELEASE.war</last-edited>
+          <last-edited>Gradle : Keep-1.0-SNAPSHOT.war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1803,7 +1883,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>java1.8</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

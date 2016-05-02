@@ -25,6 +25,14 @@ public class Note implements Serializable{
     @ManyToOne
     private User owner;
 
+    public User getOwner() {
+        return owner;
+    }
+
+    public void setOwner(User owner) {
+        this.owner = owner;
+    }
+
     @ManyToMany(fetch = FetchType.EAGER)
     @JoinTable(name = "TAGS_NOTES",
             joinColumns = @JoinColumn(name = "NOTE_ID", nullable = false),
