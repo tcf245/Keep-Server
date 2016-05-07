@@ -1,6 +1,7 @@
 package com.keep.dao;
 
 import com.keep.domain.User;
+import org.apache.commons.lang3.StringUtils;
 import org.hibernate.Hibernate;
 import org.springframework.orm.hibernate5.HibernateTemplate;
 import org.springframework.transaction.annotation.Transactional;
@@ -25,7 +26,21 @@ public class UserDao {
     }
 
     public User find(User user){
-        user = (User) template.find("from User where username = ? and password = ?",user.getUsername(),user.getPassword());
+        String hql = " from  User where 1=1 ";
+        StringBuilder sb = new StringBuilder(hql);
+
+        if(StringUtils.isNotBlank(user.getUsername())){
+            sb.append(" username = '").append(user.getUsername()).append("'");
+        }
+        if(StringUtils.isNotBlank(user.getPassword())){
+            sb.append(" password = '").append(user.getPassword()).append("'");
+        }
+
+        if(StringUtils.isNotBlank(user.getToken())){
+            sb.append(" password = '").append(user.getToken()).append("'");
+        }
+        user = (User) template.find(sb.toString());
         return user;
     }
+
 }

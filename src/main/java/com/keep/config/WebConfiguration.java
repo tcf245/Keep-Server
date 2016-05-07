@@ -1,5 +1,6 @@
 package com.keep.config;
 
+import com.keep.interceptor.TokenCheckInterceptor;
 import org.springframework.context.MessageSource;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -24,4 +25,15 @@ public class WebConfiguration extends WebMvcConfigurerAdapter {
 //        registry.addRedirectViewController("/", "/index");
 //    }
 
+
+//    @Override
+//    public void addInterceptors(InterceptorRegistry registry) {
+//        registry.addInterceptor( new TokenCheckInterceptor())
+//                .excludePathPatterns("/login")
+//                .excludePathPatterns("/noToken")
+//                .excludePathPatterns("/register")
+//                .excludePathPatterns("/upPwd")
+//                .addPathPatterns("/*");
+//        super.addInterceptors(registry);
+//    }
 }

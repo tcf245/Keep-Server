@@ -21,8 +21,15 @@ public class UserService {
     public void update(User user){
         userDao.update(user);
     }
+    public void save(User user){
+        userDao.save(user);
+    }
 
     public void register(User user){
         userDao.save(user);
+    }
+
+    public User findUser(User user){
+      return  userDao.find(user);
     }
 }

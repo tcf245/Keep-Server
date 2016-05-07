@@ -2,6 +2,7 @@ package com.keep.domain;
 
 import javax.persistence.*;
 import java.io.Serializable;
+import java.util.Date;
 import java.util.List;
 
 /**
@@ -15,6 +16,25 @@ public class User implements Serializable{
     private int id;
     private String username;
     private String password;
+    private String token;
+
+    private Date expireTime;
+
+    public String getToken() {
+        return token;
+    }
+
+    public void setToken(String token) {
+        this.token = token;
+    }
+
+    public Date getExpireTime() {
+        return expireTime;
+    }
+
+    public void setExpireTime(Date expireTime) {
+        this.expireTime = expireTime;
+    }
 
     @OneToMany(fetch = FetchType.EAGER)
     private List<Note> notes;

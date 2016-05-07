@@ -12,6 +12,7 @@ import org.springframework.context.annotation.Configuration;
 public class ServiceConfiguration {
 
     @Bean
+
     public UserService userService(UserDao userDao){
         return new UserService(userDao);
     }

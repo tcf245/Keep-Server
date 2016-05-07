@@ -31,7 +31,11 @@ public class NoteDao {
         return notes.isEmpty() ? null : notes;
     }
 
-    private void delete(Note note){
+    public void delete(Note note){
         template.delete(note);
+    }
+
+    public Note get(int id ){
+        return template.get(Note.class ,id);
     }
 }

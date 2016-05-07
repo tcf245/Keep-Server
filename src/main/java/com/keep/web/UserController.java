@@ -1,18 +1,17 @@
 package com.keep.web;
 
+import com.alibaba.fastjson.JSON;
 import com.google.gson.Gson;
+import com.keep.domain.MessageBean;
 import com.keep.domain.Note;
 import com.keep.domain.Tag;
 import com.keep.domain.User;
 import com.keep.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import javax.servlet.http.HttpServletRequest;
+import java.util.*;
 
 /**
  * Created by tcf24 on 2016/4/11.
@@ -27,9 +26,34 @@ public class UserController {
         this.userService = userService;
     }
 
-    @RequestMapping("login")
-    public String login(String json){
-        return "index";
+    @RequestMapping(value = "/{user}/login",method = RequestMethod.POST)
+    @ResponseBody
+    public String login(@PathVariable("user") String user,@RequestParam("token") String token){
+
+        Calendar c = Calendar.getInstance();
+        c.setTime(new Date());
+        c.add(Calendar.MONTH,Calendar.MONTH+1);
+
+        User tmp = new User();
+        tmp.setUsername(user);
+        tmp.setToken(token);
+        User u =  userService.findUser(tmp);
+
+        if(null != u){
+
+           if(System.currentTimeMillis() >= u.getExpireTime().getTime()){
+               u.setExpireTime(c.getTime());
+               userService.update(u);
+           }
+
+        }else{
+            tmp.setExpireTime(c.getTime());
+            userService.save(tmp);
+        }
+        MessageBean me = new MessageBean();
+        me.setFlag(true);
+        me.setData(UUID.randomUUID());
+        return JSON.toJSONString(me);
     }
 
     @RequestMapping("note")
@@ -59,4 +83,20 @@ public class UserController {
         return json;
     }
 
+    @RequestMapping("/register")
+    public String reg(HttpServletRequest req , @RequestParam("username") String username, @RequestParam("password") String password){
+        User u = new User();
+        u.setUsername(username);
+        u.setPassword(password);
+        userService.register(u);
+        MessageBean mb = new MessageBean();
+        mb.setFlag(true);
+        return JSON.toJSONString(mb);
+
+    }
+
+    @RequestMapping("/upPwd")
+    public  String updatePwd(){
+        return JSON.toJSONString(new MessageBean(true));
+    }
 }

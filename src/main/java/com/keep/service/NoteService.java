@@ -25,4 +25,12 @@ public class NoteService {
         noteDao.update(note);
     }
 
+    public Note get(int id ){
+       return  noteDao.get(id);
+    }
+
+    public  void del (Note note){
+
+         noteDao.delete(note);
+    }
 }
