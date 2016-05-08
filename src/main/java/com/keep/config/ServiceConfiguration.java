@@ -1,6 +1,8 @@
 package com.keep.config;
 
+import com.keep.dao.NoteDao;
 import com.keep.dao.UserDao;
+import com.keep.service.NoteService;
 import com.keep.service.UserService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -12,9 +14,13 @@ import org.springframework.context.annotation.Configuration;
 public class ServiceConfiguration {
 
     @Bean
-
     public UserService userService(UserDao userDao){
         return new UserService(userDao);
+    }
+
+    @Bean
+    public NoteService noteService(NoteDao noteDao){
+        return new NoteService(noteDao);
     }
 
 }

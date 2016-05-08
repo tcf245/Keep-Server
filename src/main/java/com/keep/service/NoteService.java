@@ -13,6 +13,10 @@ public class NoteService {
 
     private NoteDao noteDao;
 
+    public NoteService(NoteDao noteDao) {
+        this.noteDao = noteDao;
+    }
+
     public List<Note> getAll(User user){
         return noteDao.findAll(user);
     }

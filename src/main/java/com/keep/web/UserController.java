@@ -56,7 +56,7 @@ public class UserController {
         return JSON.toJSONString(me);
     }
 
-    @RequestMapping("note")
+    @RequestMapping(value = "note",method = RequestMethod.GET)
     public Note note(){
         Note note = new Note();
         User user = new User();
@@ -83,7 +83,7 @@ public class UserController {
         return json;
     }
 
-    @RequestMapping("/register")
+    @RequestMapping(value = "/register",method = RequestMethod.POST)
     public String reg(HttpServletRequest req , @RequestParam("username") String username, @RequestParam("password") String password){
         User u = new User();
         u.setUsername(username);

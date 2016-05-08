@@ -53,7 +53,7 @@ public class DaoConfiguration {
         return new LocalSessionFactoryBuilder(dataSource)
                 .scanPackages("com.keep.domain")
                 .setProperty("hibernate.dialect", "org.hibernate.dialect.MySQLDialect")
-                .setProperty("hibernate.hbm2ddl.auto", "create")
+                .setProperty("hibernate.hbm2ddl.auto", "update")
                 .setProperty("hibernate.show_sql", "true")
                 .buildSessionFactory();
     }
